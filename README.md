@@ -1,1 +1,1 @@
-# tinrik-sekolah
+TinDog Starting Files
