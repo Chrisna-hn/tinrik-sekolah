@@ -1,0 +1,1 @@
+# tinrik-sekolah
